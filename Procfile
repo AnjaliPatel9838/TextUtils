@@ -1,1 +1,0 @@
-web: guicorn mysite.wsgi
